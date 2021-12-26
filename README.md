@@ -52,3 +52,85 @@ So, When someone lands on our Drupal website, Drupal says oh they want the conte
 
 5- Community
 
+### Who uses Drupal?
+
+Many people
+
+- US goverment
+
+- Blue Cross Blue Shield
+
+- Major universities such as Harvard, Princeten, Yale
+
+- NBA
+
+- Lady gaga :)
+
+
+
+### Why Drupal? 
+
+- IT is open source and Free as we mentioned before
+
+- It's flexiable 
+
+- Mobile ready 
+
+- Fantastic for bif projects
+
+- Friendly, social and searchable
+
+- Safe and Secure
+
+- If you need more, there is more
+
+- good community for help
+
+
+### Terminology
+
+
+- Entity
+
+    An entity are pieces of content or data that have diffferent attributes or metadata associated with it. 
+
+    In Drupal, an entity is anything that have fields such as
+
+    1- Content(nodes)
+
+    2- Taxonomy
+
+    3- Users
+
+    4- Media 
+
+    5- Comments
+
+    6- Contact Forms
+
+- Nodes
+
+    A node in Drupal is any content item.
+
+    From Drupal website:
+
+    A node is any piece of individual content, such as a page, poll, article, forum topic, or a blog entry. Comments are not stored as nodes but are always connected to one. Treating all content as nodes allows the flexibility to create new types of content.
+
+    Note: A node has an address. 
+
+- Views
+
+    Views allow us to display our nodes or any part of our content, users, blocks.
+
+    In Drupal, a view is a listing of information. It can a list of nodes, users, comments, taxonomy terms, files, etc. A view scans your website using any criteria you specify and presents the results in the format of your choice
+
+- Modules 
+- Themes
+
+    Modules and themes extends drupal and allow us to add new features and layout to our drupal site.
+
+- Super User
+
+The super user is the user who installed the site.
+
+Or somethimes called "Super user 1". He has all the features that any users will
