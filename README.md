@@ -134,3 +134,39 @@ Many people
 The super user is the user who installed the site.
 
 Or somethimes called "Super user 1". He has all the features that any users will
+
+
+### Planning
+
+- This plan focuses on defining the content and functiional  requirements, as well as design aspects of the site.
+
+- This plan influnces cosr, scheduling, required skills and provides a way to manage expectations for all involved. 
+
+    - Content First
+
+    - Communication
+
+    - Navigation
+
+    - Features
+
+    - Roles and Permissions
+
+    - performance
+
+    - Secuirty 
+
+
+### Drupal Project Mangement Plans
+
+- This plan focuses on the resources you'll need to implementt the project plans
+
+
+- What skills will you need?
+
+- In what order should yyou approach the plan?
+
+- How much will it cost?
+
+- How eill you monitor progress? 
+
